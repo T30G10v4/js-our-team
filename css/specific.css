@@ -11,14 +11,8 @@
 /*------COMMON PARTS------*/
 
 /*------SPECIFIED PARTS BY ID------*/
-.primo {
+img {
 
-    background-color: var(--bg-color-primo);
-
-}
-
-.secondo {
-
-    background-color: var(--bg-color-secondo);
+    max-width: 100%;
 
 }
